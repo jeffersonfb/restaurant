@@ -20,3 +20,6 @@ end
 banco = Banco.new([200, 300, 400])
 # binding.pry
 banco.status
+
+
+#master =>> I would like to add this line in my local repository
